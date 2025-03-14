@@ -1,0 +1,10 @@
+{
+  "description": "Personal Portfolio",
+  "owner": {
+    "username": "sohilsohil",
+    "email": "sohil@tutanota.de"
+  },
+  "record": {
+    "CNAME": "sohilsohil.github.io"
+  }
+}
